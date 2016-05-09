@@ -1,0 +1,4 @@
+name "rpigpio"
+description "Raspberry PI GPIO Library - Raspbian's SYSFS GPIO."
+copyright "Copyright © 2016, Grosan Flaviu Gheorghe"
+authors "Grosan Flaviu Gheorghe <fgheorghe@grosan.co.uk>"
