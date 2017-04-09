@@ -29,6 +29,7 @@ void main()
             pin,
             gpio.LOW
         );
+        Thread.sleep(dur!("seconds")(1));
     }
 
     writeln("Done.");
